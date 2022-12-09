@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wildan "Kimitozuki" Mufid Ramadhan
-- 👀 I’m interested in Data Scienc
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Android App Dev and Neural Network
 
 <!---
